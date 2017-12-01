@@ -1,0 +1,14 @@
+{
+  "name": "kuro",
+  "version": "0.0.1",
+  "description": "Novel recursive JavaScript Proxy object with hooks",
+  "main": "./dist/index.js",
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eLIPSE",
+  "license": "MIT"
+}
